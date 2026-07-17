@@ -6,7 +6,7 @@
     "bun-types": "^0.7.0"
   },
   "dependencies": {
-    "three": "^0.184.0",
+    "three": "^0.185.0",
     "three-1": "npm:three@^0.184.0",
     "three-2": "npm:three@^0.184.0",
     "three-3": "npm:three@^0.184.0",
